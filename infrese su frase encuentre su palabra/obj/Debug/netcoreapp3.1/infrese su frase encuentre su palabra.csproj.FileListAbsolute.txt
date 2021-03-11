@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\infrese su frase encuentre su palabra\obj\Debug\netcoreapp3.1\infrese su frase encuentre su palabra.csprojAssemblyReference.cache
+C:\Users\User\source\repos\infrese su frase encuentre su palabra\obj\Debug\netcoreapp3.1\infrese su frase encuentre su palabra.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\infrese su frase encuentre su palabra\obj\Debug\netcoreapp3.1\infrese su frase encuentre su palabra.AssemblyInfo.cs
+C:\Users\User\source\repos\infrese su frase encuentre su palabra\obj\Debug\netcoreapp3.1\infrese su frase encuentre su palabra.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\infrese su frase encuentre su palabra\bin\Debug\netcoreapp3.1\infrese su frase encuentre su palabra.exe
+C:\Users\User\source\repos\infrese su frase encuentre su palabra\bin\Debug\netcoreapp3.1\infrese su frase encuentre su palabra.deps.json
+C:\Users\User\source\repos\infrese su frase encuentre su palabra\bin\Debug\netcoreapp3.1\infrese su frase encuentre su palabra.runtimeconfig.json
+C:\Users\User\source\repos\infrese su frase encuentre su palabra\bin\Debug\netcoreapp3.1\infrese su frase encuentre su palabra.runtimeconfig.dev.json
+C:\Users\User\source\repos\infrese su frase encuentre su palabra\bin\Debug\netcoreapp3.1\infrese su frase encuentre su palabra.dll
+C:\Users\User\source\repos\infrese su frase encuentre su palabra\bin\Debug\netcoreapp3.1\infrese su frase encuentre su palabra.pdb
+C:\Users\User\source\repos\infrese su frase encuentre su palabra\obj\Debug\netcoreapp3.1\infrese su frase encuentre su palabra.dll
+C:\Users\User\source\repos\infrese su frase encuentre su palabra\obj\Debug\netcoreapp3.1\infrese su frase encuentre su palabra.pdb
+C:\Users\User\source\repos\infrese su frase encuentre su palabra\obj\Debug\netcoreapp3.1\infrese su frase encuentre su palabra.genruntimeconfig.cache
